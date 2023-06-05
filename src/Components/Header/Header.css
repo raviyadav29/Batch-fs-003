@@ -1,0 +1,25 @@
+.container{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 13px;
+    
+}
+#title{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#menu{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 50px;
+}

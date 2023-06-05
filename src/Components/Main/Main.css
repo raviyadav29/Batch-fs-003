@@ -1,0 +1,16 @@
+.main{
+    background-color: rgb(15, 15, 239);
+    color: white;
+    display: flex;
+}
+#main1{
+    width: 50%;
+
+}
+#main2{
+    width: 50%;
+}
+img{
+    height: 420px;
+    width: 650px;
+}
